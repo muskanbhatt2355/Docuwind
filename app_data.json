@@ -1,0 +1,26 @@
+[{	"model": "disp_data.student",
+ 	"pk": 1,
+  	"fields": {"roll_no": 1, "name": "Ammy"}
+  },
+
+  {	"model": "disp_data.student",
+ 	"pk": 2,
+  	"fields": {"roll_no": 2, "name": "Bob"}
+  },
+
+  {	"model": "disp_data.student",
+ 	"pk": 3,
+  	"fields": {"roll_no": 3, "name": "Harry"}
+  },
+
+  {	"model": "disp_data.student",
+ 	"pk": 4,
+  	"fields": {"roll_no": 4, "name": "Ron"}
+  },
+
+  {	"model": "disp_data.student",
+ 	"pk": 5,
+  	"fields": {"roll_no": 5, "name": "Sam"}
+  }
+
+]
